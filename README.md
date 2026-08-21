@@ -1,4 +1,4 @@
-# Spaceship Titanic - Kaggle Competition
+# Machine Learning Project : Spaceship Titanic - Kaggle Competition
 
 ## 📝 Project Description
 This project is my (multi) participation in the Kaggle competition ["Spaceship Titanic"](https://www.kaggle.com/competitions/spaceship-titanic). 
