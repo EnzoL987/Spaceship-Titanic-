@@ -37,7 +37,7 @@ The project's development was divided into three phases, leading to the followin
 
 1. **`01_baseline_random_forest.ipynb`**
    * *Model:* Random Forest Classifier (Baseline to validate the cleaning approach)
-   * *Score:* **79.261 %**
+   * *Score:* **79.541 %** (Top 70%)
    
 2. **`02_gradient_boosting_tuning.ipynb`**
    * *Model:* Gradient Boosting Classifier optimized via `GridSearchCV`
@@ -45,7 +45,7 @@ The project's development was divided into three phases, leading to the followin
    
 3. **`03_xgboost.ipynb`**
    * *Model:* XGBoost Classifier optimized via `GridSearchCV` and advanced Feature Engineering on group size
-   * *Score:* **80.216 %**
+   * *Score:* **80.219 %** (Top 50%)
 
 ## 🚀 How to Run This Project Locally
 1. Clone this repository to your machine.
