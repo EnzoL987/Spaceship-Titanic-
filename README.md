@@ -45,7 +45,7 @@ The project's development was divided into three phases, leading to the followin
    
 3. **`03_xgboost.ipynb`**
    * *Model:* XGBoost Classifier optimized via `GridSearchCV` and advanced Feature Engineering on group size
-   * *Score:* **80.196 %**
+   * *Score:* **80.216 %**
 
 ## 🚀 How to Run This Project Locally
 1. Clone this repository to your machine.
