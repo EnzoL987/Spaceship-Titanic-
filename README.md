@@ -41,7 +41,7 @@ The project's development was divided into three phases, leading to the followin
    
 2. **`02_gradient_boosting_tuning.ipynb`**
    * *Model:* Gradient Boosting Classifier optimized via `GridSearchCV`
-   * *Score:* **80.243 %** *(Current best score)*
+   * *Score:* **80.430 %** *(Current best score and Top 30% competition)*
    
 3. **`03_xgboost.ipynb`**
    * *Model:* XGBoost Classifier optimized via `GridSearchCV` and advanced Feature Engineering on group size
