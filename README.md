@@ -18,8 +18,9 @@ The project is professionally organized to clearly separate data, code, and fina
 ## 🛠️ Skills and Tools Used
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn (RandomForest, GradientBoosting, KNNImputer, GridSearchCV), XGBoost
+* **Machine Learning:** Scikit-Learn (RandomForest, GradientBoosting, KNNImputer, GridSearchCV, learning_curve), XGBoost
 * **Visualization:** Matplotlib, Seaborn
+* **Data Science Techniques:** Feature Engineering, Feature Selection, Z-score Standardization, Logical & Distance-based Imputation, Cross-Validation.
 
 ## 🧠 Approach and Feature Engineering
 Special attention was given to data preparation to provide the algorithms with the most relevant signals:
@@ -45,7 +46,7 @@ The project's development was divided into three phases, leading to the followin
    
 3. **`03_xgboost.ipynb`**
    * *Model:* XGBoost Classifier optimized via `GridSearchCV` and advanced Feature Engineering on group size
-   * *Score:* **80.219 %** (Top 50%)
+   * *Score:* **80.219 %** (Top 45%)
 
 ## 🚀 How to Run This Project Locally
 1. Clone this repository to your machine.
